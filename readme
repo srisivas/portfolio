@@ -1,0 +1,118 @@
+ <div class="column right">
+                    <div class="bars">
+                        <div class="info">
+                            <span>HTML</span>
+                            <span>90%</span>
+                        </div>
+                        <div class="line html"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>CSS</span>
+                            <span>60%</span>
+                        </div>
+                        <div class="line css"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>JavaScript</span>
+                            <span>80%</span>
+                        </div>
+                        <div class="line js"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>PHP</span>
+                            <span>50%</span>
+                        </div>
+                        <div class="line php"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>MySQL</span>
+                            <span>70%</span>
+                        </div>
+                        <div class="line mysql"></div>
+                    </div>
+
+
+
+
+
+
+                    <section class="skills" id="skills">
+                        <div class="max-width">
+                            <h2 class="title">My skills</h2>
+                            <div class="skills-content">
+                                <div class="column left">
+                                    <div class="text">My creative skills & experiences.</div>
+                                    <p></p>
+                                    <a href="#">Read more</a>
+                                </div>
+
+
+                                <div class="container">
+                                    <div class="contact-box">
+                                        <div class="left"></div>
+                                        <div class="right">
+                                            <h2>Contact Us</h2>
+                                            <input type="text" class="field" placeholder="Your Name">
+                                            <input type="text" class="field" placeholder="Your Email">
+                                            <input type="text" class="field" placeholder="Phone">
+                                            <textarea placeholder="Message" class="field"></textarea>
+                                            <button class="btn">Send</button>
+                                        </div>
+                                    </div>
+                                </div>y
+
+
+
+
+
+
+
+
+
+                                
+            <!-- footer -->
+            <div class="footer-clean">
+                <footer>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-sm-4 col-md-3 item">
+                                <h3>Services</h3>
+                                <ul>
+                                    <li><a href="#">Web design</a></li>
+                                    <li><a href="#">Development</a></li>
+                                    <li><a href="#">Hosting</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-4 col-md-3 item">
+                                <h3>About</h3>
+                                <ul>
+                                    <li><a href="#">Company</a></li>
+                                    <li><a href="#">Team</a></li>
+                                    <li><a href="#">Legacy</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-4 col-md-3 item">
+                                <h3>Careers</h3>
+                                <ul>
+                                    <li><a href="#">Job openings</a></li>
+                                    <li><a href="#">Employee success</a></li>
+                                    <li><a href="#">Benefits</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-3 item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a
+                                    href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i
+                                        class="icon ion-social-snapchat"></i></a><a href="#"><i
+                                        class="icon ion-social-instagram"></i></a>
+                                <p class="copyright">Company Name © 2018</p>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js">
+            </script>
